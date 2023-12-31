@@ -1,0 +1,34 @@
+----------------------------------------
+           Dr Ubuntu
+----------------------------------------
+
+
+-What is Dr Ubuntu?
+Dr ubuntu is an application published by Ubuntu Max.
+This app conatins worlds most powerful and working Ubuntu repair system.
+This application is for ubuntu and all ubuntu based operating systems which can repair almost
+every corruption in your os!
+ 
+*Warning* This app is still on early accsess and might not work at some surcomstances.
+
+
+-What are the features of Dr Ubuntu?
+This app not only fix the corruption in your os also scan the errors which appear while 
+repairing and fix them as well.
+
+
+-How to use Dr Ubuntu?
+------Ubuntu 18.04-------
+1.Right click on the drubuntu.sh file and click on properties.
+2.Click on Permissions.
+3.click on allow executing file as programs.
+4.Now open the file and click on run in terminal.
+
+Same process works for ubuntu 20.04 as well.
+
+-----Ubuntu 22.04--------
+1.In ubuntu 20.04 first allow executing file as programs.
+2.Then right click and click on run as program.
+
+*Warning* This app uses some commands to fix the os. so it needs password of your computer
+          so you can give it.
